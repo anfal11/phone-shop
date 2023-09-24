@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/09/iPhone-13-Pro.jpg",
+      "phone_name": "iPhone 13 Pro",
+      "brand_name": "Apple",
+      "price": 999.99,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "image": "https://live.staticflickr.com/65535/51951135242_f735b6961f_b.jpg",
+      "phone_name": "Galaxy S21 Ultra",
+      "brand_name": "Samsung",
+      "price": 899.99,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/10/Pixel-6-Pro-back-scaled.jpg",
+      "phone_name": "Pixel 6 Pro",
+      "brand_name": "Google",
+      "price": 799.99,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "image": "https://c0.wallpaperflare.com/preview/749/45/245/smartphone-oneplus-oneplus3-oneplus3t.jpg",
+      "phone_name": "OnePlus 9",
+      "brand_name": "OnePlus",
+      "price": 699.99,
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/07/SonyXperia1III-9.jpeg",
+      "phone_name": "Xperia 1 III",
+      "brand_name": "Sony",
+      "price": 899.99,
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Xiaomi_Mi_11_Ultra_Camera_.jpg",
+      "phone_name": "Mi 11 Ultra",
+      "brand_name": "Xiaomi",
+      "price": 799.99,
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/10/Zenfone-9-11-.jpg",
+      "phone_name": "ZenFone 8 Pro",
+      "brand_name": "ASUS",
+      "price": 899.99,
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "image": "https://c1.wallpaperflare.com/preview/807/882/560/mobile-phone-gadget-motorola.jpg",
+      "phone_name": "Moto G Power",
+      "brand_name": "Motorola",
+      "price": 299.99,
+      "rating": 4.4
+    },
+    {
+      "id": 9,
+      "image": "https://ae01.alicdn.com/kf/HTB1BBV2mlDH8KJjSszcq6zDTFXac.jpg",
+      "phone_name": "Lumia 950 XL",
+      "brand_name": "Microsoft",
+      "price": 599.99,
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Redmi_Note_10_Pro_front.jpg",
+      "phone_name": "Redmi Note 10",
+      "brand_name": "Xiaomi",
+      "price": 199.99,
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/02/Oppo-Find-X5-Pro-two-models.jpg",
+      "phone_name": "Oppo Find X3 Pro",
+      "brand_name": "Oppo",
+      "price": 799.99,
+      "rating": 4.6
+    },
+    {
+      "id": 12,
+      "image": "https://telecomtalk.info/wp-content/uploads/2019/02/nokia-9-pureview-renders-1200x675.png",
+      "phone_name": "Nokia 9 PureView",
+      "brand_name": "Nokia",
+      "price": 399.99,
+      "rating": 4.0
+    }
+  ]
+  
