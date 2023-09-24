@@ -21,9 +21,9 @@ const MainLayout = () => {
     return (
         <div className="max-w-[1450px] mx-auto">
             <NavBar></NavBar>
-            <div className="py-20">
+            
             <Outlet></Outlet>
-            </div>
+            
         </div>
     );
 };
